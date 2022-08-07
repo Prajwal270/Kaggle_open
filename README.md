@@ -1,4 +1,4 @@
-# Kaggle_open
+# Kaggle_startup_funding_data_analysis
 Data preprocessing with kaggle datasets 
 
 
